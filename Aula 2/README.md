@@ -5,10 +5,10 @@ Este repositório contém os wireframes do projeto **Alimunipê**, desenvolvidos
 ## 📱 Descrição das Telas (Aula 2)
 
 1. **Tela 1 (Login):** Interface de acesso com campos de e-mail, senha e botão "Entrar".
-2. **Tela 2 (Home):** Vitrine principal com barra de busca, categorias (Pizza, Lanches, Mercado) e banner de "Oferta do dia: 20% OFF".
-3. **Tela 3 (Produto):** Exibição de detalhes do item (Hambúrguer Gourmet), preço de R$ 35,90 e seletor de quantidade com botão de compra.
-4. **Tela 4 (Carrinho):** Listagem de itens selecionados, exibição de subtotal e botão para checkout "Ir para o Pagamento".
-5. **Tela 5 (Sucesso):** Confirmação visual de pedido concluído com ícone de verificado (✅) e status do pedido #1234.
+2. **Tela 2 (Home):** Vitrine principal com barra de busca, categorias e banner de "Oferta do dia: 20% OFF".
+3. **Tela 3 (Produto):** Exibição de detalhes do item (Hambúrguer Gourmet), e preço
+4. **Tela 4 (Carrinho):** Listagem dos produtos ou ausência deles
+5. **Tela 5 (Recomendações):** Tela de recomendações
 
 ## 🛠️ Ferramentas Utilizadas
 - Microsoft Paint (Criação dos layouts).
